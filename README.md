@@ -2,13 +2,17 @@
 
 ## first step 
 
-""git clone the project""
+- git clone the project
 
 ## second step
 
 - install postgresql to allow postsql server
 - create database name of the database
 
-## last step
+## third step
 
 run the application
+
+## last step
+
+- open postman and use the collection attached in the ressources folder.
